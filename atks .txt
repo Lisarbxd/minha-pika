@@ -1,0 +1,36 @@
+Dragonite
+move1 = {name = "Dragon Claw", level = 100, cd = 6, dist = 1, target = 1, f = 60, t = "dragon"},
+	      move2 = {name = "Thunder Punch", level = 100, cd = 7, dist = 1, target = 1, f = 75, t = "electric"},
+		  move3 = {name = "Ice Punch", level = 100, cd = 7, dist = 1, target = 1, f = 75, t = "ice"},
+		  move4 = {name = "Fire Punch", level = 100, cd = 8, dist = 1, target = 1, f = 75, t = "fire"},
+          move5 = {name = "Iron Head", level = 100, cd = 8, dist = 1, target = 1, f = 60, t = "steel"},              --alterado v1.8
+		  move6 = {name = "Draco Meteor", level = 100, cd = 7, dist = 1, target = 0, f = 120, t = "dragon"},
+		  move7 = {name = "Hyper Beam", level = 100, cd = 11, dist = 1, target = 0, f = 120, t = "normal"},
+		  move8 = {name = "Agility", level = 110, cd = 9, dist = 1, target = 0, f = 0, t = "flying"},
+		  move9 = {name = "Hurricane", level = 120, cd = 13, dist = 1, target = 0, f = 15, t = "flying"},
+          move10 = {name = "Roost", level = 130, cd = 20, dist = 1, target = 0, f = 0, t = "flying"},
+		  
+		  
+Alakazam
+move1 = {name = "Psychic", level = 80, cd = 7, dist = 1, target = 0, f = 75, t = "psychic"},
+		  move2 = {name = "Confusion", level = 25, cd = 10, dist = 1, target = 0, f = 50, t = "psychic"},
+		  move3 = {name = "Psybeam", level = 30, cd = 10, dist = 1, target = 0, f = 75, t = "psychic"},
+		  move4 = {name = "Calm Mind", level = 28, cd = 7, dist = 1, target = 0, f = 70, t = "psychic"},
+		  move5 = {name = "Shadow Ball", level = 20, cd = 7, dist = 2, target = 0, f = 0, t = "ground"},
+		  move6 = {name = "Fire Punch", level = 100, cd = 8, dist = 1, target = 1, f = 75, t = "fire"},
+		  move7 = {name = "Psyshock", level = 1, cd = 6, dist = 1, target = 0, f = 80, t = "psychic"},
+		  move8 = {name = "Dazzling Gleam", level = 48, cd = 9, dist = 1, target = 0, f = 80, t = "fairy"},
+		  move9 = {name = "Reflect", level = 1, cd = 11, dist = 1, target = 0, f = 0, t = "psychic"},
+		  move10 = {name = "Restore", level = 10, cd = 180, dist = 1, target = 0, f = 0, t = "normal"},
+		  
+Gardevoir 
+move1 = {name = "Confusion", level = 25, cd = 10, dist = 1, target = 0, f = 50, t = "psychic"},
+		  move2 = {name = "Psychic", level = 1, cd = 7, dist = 1, target = 0, f = 75, t = "psychic"},
+		  move3 = {name = "Moonblast", level = 1, cd = 7, dist = 1, target = 1, f = 95, t = "normal"},
+		  move4 = {name = "Calm Mind", level = 28, cd = 7, dist = 1, target = 0, f = 70, t = "psychic"},
+		  move5 = {name = "Healarea", level = 1, cd = 10, dist = 1, target = 0, f = 0, t = "normal"},
+		  move6 = {name = "Emergency Call", level = 80, cd = 8, dist = 1, target = 0, f = 0, t = "normal"},   --fazer heal bell
+		  move7 = {name = "Wish", level = 1, cd = 15, dist = 1, target = 0, f = 0, t = "normal"},
+		  move8 = {name = "Dream Eater", level = 50, cd = 10, dist = 3, target = 1, f = 80, t = "ghost"},
+		  move9 = {name = "Hypnosis", level = 1, cd = 10, dist = 4, target = 1, f = 0, t = "psychic"},
+		 
